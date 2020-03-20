@@ -1,0 +1,51 @@
+Heading - Montserrat- Bold
+Banner - 64
+Title - 48px
+Logo - 28px and 24px
+Footer - 24px
+nav- 16px
+
+
+
+Content - Lato -Light
+20px and 24px and 13px
+
+
+Head Bar and title color - #2c3e50
+button: #1abc9c
+
+
+
+span:before {
+    content: '';
+    height: 2px;
+    background-color: red;
+    float: left;
+    width: 250px;
+    position: absolute;
+    left: 50px;
+    overflow: hidden;
+    top: 19px;
+}
+
+Indoor Tracking System:
+
+https://blog.mapbox.com/indoor-navigation-in-ar-with-unity-6078afe9d958
+
+https://www.infsoft.com/solutions/basics/quick-start-indoor-positioning
+
+https://michigansciencecenter.net/indoor-positioning-system-final-year-project-thesis-supervised-by/
+
+https://mobidev.biz/blog/augmented-reality-indoor-navigation-app-developement-arkit    *********
+
+https://www.netguru.com/blog/augmented-reality-mobile-android
+
+https://www.freecodecamp.org/news/how-to-build-an-augmented-reality-android-app-with-arcore-and-android-studio-43e4676cb36f/
+
+
+
+
+
+
+
+
